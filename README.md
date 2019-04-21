@@ -1,0 +1,2 @@
+# numgo
+Numpy for golang. 
